@@ -1,11 +1,3 @@
-Name: indu
-Phone Number: +8897046803
-Event Date: 2025-03-11
-Event Time: 09:10 AM
-Reminder Time: 2 minutes
-
-Name: vinita
-Phone Number: +9491274754
-Event Date: 2025-03-11
-Event Time: 09:30 AM
-Reminder Time: 3 minutes
+Name,Phone Number,Event Date,Event Time,Reminder Time
+Indupriya,+8897046803,2025-03-11,8:00 AM,5 minutes
+vinita,+9491274754,2023-12-30,9:00 AM,30 minutes
